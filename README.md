@@ -16,7 +16,7 @@
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect:</h2>
 
 
 [<img align="left" alt="rodrigntag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
