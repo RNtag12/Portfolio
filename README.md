@@ -4,6 +4,8 @@
 
 - <b> AES with Python (AlgoExpert)</b>
   - [AES algorithm with python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Practice with Python (AlgoExpert)</b>
+  - [Fruit Inventory management System with Pandas and json libraries ](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📜 Certifications</h2>
