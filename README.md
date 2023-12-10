@@ -15,7 +15,7 @@
 
  <h2>📺 Popular YouTube Videos</h2>
 
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [SIEM tools log analysis](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 
 <h2> 🤳 Connect:</h2>
