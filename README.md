@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rodrigue! <br/></h1>
 
-<h2>👨‍💻 cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> AES with Python (AlgoExpert)</b>
   - [AES algorithm with python](https://github.com/joshmadakor1/Algorithms-Practice)
