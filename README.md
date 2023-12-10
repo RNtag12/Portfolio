@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> AES with Python (AlgoExpert)</b>
+- <b> AES with Python</b>
   - [AES algorithm with python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b> Practice with Python </b>
   - [Fruit Inventory management System with Pandas and json libraries ](https://github.com/RNtag12/FIMSPython/tree/main)
