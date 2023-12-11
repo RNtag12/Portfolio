@@ -2,9 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b> Algorithm for file updates in Python </b>
+  - [File updates for Algorithm](https://github.com/RNtag12/FIMSPython/tree/main)
 - <b> AES with Python</b>
   - [AES with python](https://github.com/RNtag12/AESPython)
 - <b> Practice with Python </b>
+  - [Fruit Inventory management System with Pandas and json libraries ](https://github.com/RNtag12/FIMSPython/tree/main)
+- <b> Algorithm for file updates in Python </b>
   - [Fruit Inventory management System with Pandas and json libraries ](https://github.com/RNtag12/FIMSPython/tree/main)
 
 
