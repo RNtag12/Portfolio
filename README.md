@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Algorithm for file updates in Python </b>
-  - [File updates using a python Algorithm](https://github.com/RNtag12/UpdateFile/tree/main)
+- <b> Algorithm for file update in Python </b>
+  - [File update through a python Algorithm](https://github.com/RNtag12/UpdateFile/tree/main)
 - <b> AES with Python</b>
   - [AES with python](https://github.com/RNtag12/AESPython)
 - <b> Practice with Python </b>
