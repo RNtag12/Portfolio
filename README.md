@@ -4,10 +4,14 @@
 
 - <b> Algorithm for file update in Python </b>
   - [File update through a python Algorithm](https://github.com/RNtag12/UpdateFile/tree/main)
+- <b> Practice with Linux </b>
+  - [File permission update ](https://github.com/RNtag12/FIMSPython/tree/main)
 - <b> AES with Python</b>
   - [AES with python](https://github.com/RNtag12/AESPython)
 - <b> Practice with Python </b>
   - [Fruit Inventory management System with Pandas and json libraries ](https://github.com/RNtag12/FIMSPython/tree/main)
+
+  
 
 
 
